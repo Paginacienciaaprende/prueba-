@@ -1,0 +1,72 @@
+h1{color: rgba(117, 14, 103, 0.979);}
+h2{text-align:center;}
+h2{color:black(6,6,6,0975)}
+h2{color:black(4,4,4,0.973)}
+h2{text-align:center;}
+h3{text-align:center;}
+h3{color:black(6,6,6,0976)}
+body {background-image: url(fondo\ 1\ \(4\).jpg);}
+h1{color: rgba(112, 19, 78, 0.979);}
+h1{text-align: center;}
+h4{text-align:center;}
+h5{color: rgb(8, 18, 63);}
+h5{text-align: center;}
+{
+   background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #f06ac8d3;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a :hover{
+    background: #d575d8ef;
+}
+  .juegos{
+    position: absolute;
+    bottom:200px;
+    right:420px; 
+  }
+  .rompecabezas{
+    position: absolute;
+    bottom:200px;
+    left:420px; 
+  }
+  .games{
+    position: absolute;
+    bottom:-100px;
+    right:420px;
+  }
+  .anatomia{
+    position: absolute;
+    bottom:-100px;
+    left:400px; 
+  }
+  .humano{
+    position: absolute;
+    bottom:-400px;
+    right:420px;
+  } 
+  .vertebrados{
+    position: absolute;
+    bottom:-400px;
+    left:400px; 
+  }
+  
+   
